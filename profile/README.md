@@ -9,8 +9,3 @@ Please note that there may be more Chinese users here, but we have no user restr
 
 If this organization has helped you, you can sponsor us with some coffee
 beans: [:coffee: Sponsor :coffee:](https://wu-clan.github.io/sponsor/)
-
-<a href="https://www.buymeacoffee.com/wuclan" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-       alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
-</a>
