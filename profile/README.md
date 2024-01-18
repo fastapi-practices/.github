@@ -1,10 +1,11 @@
 > [!TIP]
-> Our only community -> [Telegram group](https://t.me/+ZlPhIFkPp7E4NGI1)
+> Welcome to our only community -> [Telegram Group](https://t.me/+ZlPhIFkPp7E4NGI1)
 
-This is an organization of individuals dedicated to the practice of fastapi,
-offering free advice and help at no cost to you!
+This is an organization of dedicated fastapi practitioners offering you free advice and help!
 
-Welcome to join my personal open source community, everything is open
-and transparent is what we are doing!
+Everything is open and transparent here, and that's what we do!
 
-Note that there may be more Chinese users here, but we don't have user restrictions.
+Please note that there may be more Chinese users here, but we have no user restrictions.
+
+If this organization has helped you, you can sponsor us with some coffee
+beans: [:coffee: Sponsor :coffee:](https://wu-clan.github.io/sponsor/)
