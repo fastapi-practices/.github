@@ -1,11 +1,9 @@
 > [!TIP]
-> Welcome to our only community -> [Telegram Group](https://t.me/+ZlPhIFkPp7E4NGI1)
+> 欢迎加入我们的社区 -> [TG / WeChat / QQ](https://github.com/wu-clan)
 
-This is an organization of dedicated fastapi practitioners offering you free advice and help!
+这是一个由专注于 fastapi 的从业人员组成的组织，为您提供免费的建议和帮助！
 
-Everything is open and transparent here, and that's what we do!
+在这里，一切都是公开透明的，这就是我们的工作！
 
-Please note that there may be more Chinese users here, but we have no user restrictions.
-
-If this organization has helped you, you can sponsor us with some coffee
-beans: [:coffee: Sponsor :coffee:](https://wu-clan.github.io/sponsor/)
+如果本组织对您有帮助，您可以赞助我们一些咖啡豆：
+[:coffee: Sponsor :coffee:](https://wu-clan.github.io/sponsor/)
