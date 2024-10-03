@@ -1,5 +1,5 @@
-> [!IMPORTANT]
-> 互动频道 -> [WeChat / QQ](https://wu-clan.github.io/homepage/)
+> [!TIP]
+> 互动 -> [Discord](https://wu-clan.github.io/homepage/)
 
 <div style="text-align: center">
   <h1>承诺</h1>
